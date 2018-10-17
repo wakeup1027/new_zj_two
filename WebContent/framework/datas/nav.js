@@ -1,0 +1,105 @@
+var navs = [{
+	"title": "新闻中心",
+	"icon": "fa-navicon",
+	"spread": true,
+	"children": [{
+		"title": "投资动态",
+		"icon": "&#xe60a;",
+		"href": "new-content/invest-dynamic.jsp"
+	}, {
+		"title": "新闻媒介",
+		"icon": "&#xe60a;",
+		"href": "new-media/list-new-media.jsp"
+	}]
+}, {
+	"title": "投资环境",
+	"icon": "fa-navicon",
+	"spread": false,
+	"children": [{
+		"title": "了解我们",
+		"icon": "&#xe60a;",
+		"href": "know-us/list-know-us.jsp"
+	}, {
+		"title": "投资项目",
+		"icon": "&#xe60a;",
+		"href": "investment-projects/list-investment-projects.jsp"
+	}, {
+		"title": "投资政策",
+		"icon": "&#xe60a;",
+		"href": "investment-policy/list-investment-policy.jsp"
+	}, {
+		"title": "投资成本",
+		"icon": "&#xe60a;",
+		"href": "investment-cost/list-investment-cost.jsp"
+	}, {
+		"title": "重点企业",
+		"icon": "&#xe630;",
+		"href": "stress-enterprise/list-stress-enterprise.jsp"
+	}]
+}, {
+	"title": "投资服务",
+	"icon": "fa-navicon",
+	"spread": false,
+	"children": [{
+		"title": "投资流程",
+		"icon": "&#xe649;",
+		"href": "investment-process/list-investment-process.jsp"
+	}, {
+		"title": "职能部门联系",
+		"icon": "&#xe609;",
+		"href": "functional-department/list-functional-department.jsp"
+	}, {
+		"title": "投资目录",
+		"icon": "&#xe60a;",
+		"href": "investment-catalogues/list-investment-catalogues.jsp"
+	}, {
+		"title": "资料下载",
+		"icon": "&#xe621;",
+		"href": "down-file/list-down-file.jsp"
+	}, {
+		"title": "答疑解惑",
+		"icon": "&#xe606;",
+		"href": "answer-question/list-answer-question.jsp"
+	}]
+}, {
+	"title": "专业园区",
+	"icon": "fa-navicon",
+	"href": "",
+	"spread": false,
+	"children": [{
+		"title": "石化园区",
+		"icon": "&#xe60a;",
+		"href": "shihua-garden/list-shihua-garden.jsp"
+	}, {
+		"title": "钢铁配套园区",
+		"icon": "&#xe60a;",
+		"href": "steel-garden/list-steel-garden.jsp"
+	}, {
+		"title": "中央商务区",
+		"icon": "&#xe60a;",
+		"href": "center-business/list-center-business.jsp"
+	}]
+}, {
+	"title": "联系我们",
+	"icon": "&#xe63a;",
+	"href": "",
+	"spread": false,
+	"children": [{
+		"title": "机构构成",
+		"icon": "&#xe638;",
+		"href": "mechanism-function/list-mechanism-function.jsp"
+	}, {
+		"title": "局长邮箱",
+		"icon": "fa-qq",
+		"href": "director-email/list-director-email.jsp"
+	}, {
+		"title": "联系方式",
+		"icon": "&#xe63b;",
+		"href": "contact-us/list-contact-us.jsp"
+	}]
+}, {
+	"title": "图片上传",
+	"icon": "&#xe64a;",
+	"href": "home-images/list-home-images.jsp",
+	"spread": false
+}];
